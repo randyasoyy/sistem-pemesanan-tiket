@@ -1,1 +1,1 @@
-Memesan tiket transportasi, konser, dan bioskop
+Pemesanantiket transportasi, konser, dan bioskop
